@@ -15,8 +15,8 @@
 <p align="center"> 
   <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=hnsqls&theme=tokyo-night" width="600"/>
 </p>
-<p align="center">
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/hnsqls/count.svg) visitor,Thank You!😘
-</p>
+
 
 
