@@ -1,4 +1,3 @@
-```html
 
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+Welecom+to+hnsqls+!" alt="Typing SVG" /></a>
@@ -19,5 +18,5 @@
 <p align="center">
 You are my ![Visitor Count](https://profile-counter.glitch.me/hnsqls/count.svg) visitor,Thank You!😘
 </p>
-```
+
 
